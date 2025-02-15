@@ -1,0 +1,5 @@
+1. Ruta de .NET Framework 4.0
+ C:\Windows\Microsoft.NET\Framework\v4.0.30319
+ 
+2. Compilar archivo
+C:\Development\ExampleNET4.0> C:\Windows\Microsoft.NET\Framework\v4.0.30319\csc.exe HolaMundo.cs
